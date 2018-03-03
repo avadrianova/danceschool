@@ -5,7 +5,7 @@
 # Find out more about building applications with Shiny here:
 #
 #    http://shiny.rstudio.com/
-#
+# Я ВСЁ МОГУ!!!!!
 
 library(shiny)
 #практика1
